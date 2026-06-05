@@ -1,0 +1,25 @@
+monitor:
+  fps: 10
+  region: [0, 0, 0, 0]
+  scale_factor: 0.75
+  cooldown_seconds: 30
+  screenshot_padding: 1.5
+  auto_trigger_screenshot: true
+
+wework:
+  webhook_url: ""
+  target_name: "二维码监控"
+
+clipboard:
+  enabled: false
+  poll_interval: 0.5
+  cooldown_seconds: 5
+
+winprtscn:
+  enabled: false
+  screenshots_dir: ""
+  poll_interval: 1.0
+
+logging:
+  level: "INFO"
+  retention_days: 7

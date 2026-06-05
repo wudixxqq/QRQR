@@ -1,0 +1,2045 @@
+2026-06-05 09:06:49 | INFO    | __main__ | QR Monitor starting...
+2026-06-05 09:06:49 | INFO    | ui.tray_app | System tray icon started
+2026-06-05 09:06:51 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:06:56 | INFO    | ui.settings_window | Configuration saved
+2026-06-05 09:06:56 | INFO    | core.engine | 【二维码监控】配置已重新加载
+2026-06-05 09:06:56 | INFO    | ui.tray_app | QR engine reloaded configuration
+2026-06-05 09:06:56 | INFO    | core.screenshot_engine | Screenshot engine configuration reloaded
+2026-06-05 09:06:56 | INFO    | ui.tray_app | Screenshot engine reloaded configuration
+2026-06-05 09:06:56 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】配置已重新加载
+2026-06-05 09:06:56 | INFO    | ui.tray_app | PrtScn engine reloaded configuration
+2026-06-05 09:06:56 | INFO    | ui.settings_window | Engine reloaded configuration
+2026-06-05 09:07:18 | INFO    | ui.tray_app | User triggered PrtScn start via tray menu
+2026-06-05 09:07:18 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】功能未在配置中启用，请在设置中启用
+2026-06-05 09:07:19 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:07:27 | INFO    | ui.settings_window | Configuration saved
+2026-06-05 09:07:27 | INFO    | core.engine | 【二维码监控】配置已重新加载
+2026-06-05 09:07:27 | INFO    | ui.tray_app | QR engine reloaded configuration
+2026-06-05 09:07:27 | INFO    | core.screenshot_engine | Screenshot engine configuration reloaded
+2026-06-05 09:07:27 | INFO    | ui.tray_app | Screenshot engine reloaded configuration
+2026-06-05 09:07:27 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】配置已重新加载
+2026-06-05 09:07:27 | INFO    | ui.tray_app | PrtScn engine reloaded configuration
+2026-06-05 09:07:27 | INFO    | ui.settings_window | Engine reloaded configuration
+2026-06-05 09:07:32 | INFO    | ui.tray_app | User triggered PrtScn start via tray menu
+2026-06-05 09:07:32 | INFO    | core.winprtscn_monitor | 【PrtScn 监控】已启动，监控目录: C:\Users\Administrator/Pictures/Screenshots
+2026-06-05 09:07:32 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】已启动，监控目录: C:\Users\Administrator/Pictures/Screenshots
+2026-06-05 09:07:34 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:07:37 | INFO    | ui.settings_window | Configuration saved
+2026-06-05 09:07:37 | INFO    | core.engine | 【二维码监控】配置已重新加载
+2026-06-05 09:07:37 | INFO    | ui.tray_app | QR engine reloaded configuration
+2026-06-05 09:07:37 | INFO    | core.screenshot_engine | Screenshot engine configuration reloaded
+2026-06-05 09:07:37 | INFO    | ui.tray_app | Screenshot engine reloaded configuration
+2026-06-05 09:07:37 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】正在停止...
+2026-06-05 09:07:37 | INFO    | core.winprtscn_monitor | 【PrtScn 监控】已停止
+2026-06-05 09:07:37 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】已停止
+2026-06-05 09:07:37 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】配置已重新加载
+2026-06-05 09:07:37 | INFO    | ui.tray_app | PrtScn engine reloaded configuration
+2026-06-05 09:07:37 | INFO    | ui.settings_window | Engine reloaded configuration
+2026-06-05 09:08:12 | INFO    | ui.tray_app | User triggered PrtScn stop via tray menu
+2026-06-05 09:08:12 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:08:18 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:13:02 | INFO    | ui.tray_app | User triggered quit via tray menu
+2026-06-05 09:13:02 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:13:02 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:13:02 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:13:02 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:13:02 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:13:02 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:13:02 | INFO    | __main__ | QR Monitor shutdown complete
+2026-06-05 09:14:31 | INFO    | __main__ | QR Monitor starting...
+2026-06-05 09:14:31 | INFO    | ui.tray_app | System tray icon started
+2026-06-05 09:14:33 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:14:45 | INFO    | ui.settings_window | Configuration saved
+2026-06-05 09:14:45 | INFO    | core.engine | 【二维码监控】配置已重新加载
+2026-06-05 09:14:45 | INFO    | ui.tray_app | QR engine reloaded configuration
+2026-06-05 09:14:45 | INFO    | core.screenshot_engine | Screenshot engine configuration reloaded
+2026-06-05 09:14:45 | INFO    | ui.tray_app | Screenshot engine reloaded configuration
+2026-06-05 09:14:45 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】配置已重新加载
+2026-06-05 09:14:45 | INFO    | ui.tray_app | PrtScn engine reloaded configuration
+2026-06-05 09:14:45 | INFO    | ui.settings_window | Engine reloaded configuration
+2026-06-05 09:14:54 | INFO    | ui.tray_app | User triggered QR start via tray menu
+2026-06-05 09:14:54 | INFO    | core.deduplicator | 【去重】去重记录已重置
+2026-06-05 09:14:54 | INFO    | core.engine | 【二维码监控】引擎已启动，开始实时监控屏幕内容
+2026-06-05 09:14:57 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:57 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:57 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:14:57 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:14:57 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:57 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:57 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:58 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:14:59 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:14:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:00 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 149184 字节
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:01 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:02 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:02 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (149184 bytes)
+2026-06-05 09:15:02 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [人追成
+...]
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:02 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:02 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:02 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:03 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:04 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:05 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:05 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:05 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:05 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:05 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:06 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:06 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:06 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:06 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:07 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:07 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:07 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:07 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:07 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:08 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:08 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:08 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:08 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:08 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:09 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:09 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:09 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:09 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.engine | 【变化检测】二维码内容变化: 人追成
+... → 文本
+网址
+文件
+图片
+音视频
+名片
+...（1 次变化）
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:15:10 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:10 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:10 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:11 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:11 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:12 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:12 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:13 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:13 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 146398 字节
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (146398 bytes)
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [文本
+网址
+文件
+图片
+音视频
+名片
+...]
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:14 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:14 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:15 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:15 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:15 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:15 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:15 | INFO    | core.engine | 【变化检测】二维码内容变化: 文本
+网址
+文件
+图片
+音视频
+名片
+... → 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+...（2 次变化）
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:15:15 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:15:15 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:15 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:15 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:16 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:16 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:17 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:17 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:18 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:18 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 566744 字节
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:19 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:19 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (566744 bytes)
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:20 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:20 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:21 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:21 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:22 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:15:22 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:23 | INFO    | core.engine | 【变化检测】二维码内容变化: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+... → https://github.com/SiverKing/wechat4.0-w...（3 次变化）
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:15:23 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:15:23 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:23 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:23 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:23 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:24 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:24 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:24 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:24 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:24 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:25 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:25 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:25 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:25 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:26 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:26 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:26 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 147741 字节
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:26 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:26 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:27 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:27 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (147741 bytes)
+2026-06-05 09:15:27 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:27 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:27 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:27 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:27 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:28 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:28 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:28 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:28 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:29 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】二维码内容: https://github.com/SiverKing/wechat4.0-windows-versions/releases/tag/v4.1.9.35...
+2026-06-05 09:15:29 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [https://github.com/SiverKing/wechat4.0-windows-versions/rele...]，跳过
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:29 | INFO    | core.deduplicator | 【去重】二维码已超出30秒窗口 [人追成
+...]，允许重新触发
+2026-06-05 09:15:29 | INFO    | core.engine | 【变化检测】二维码内容变化: https://github.com/SiverKing/wechat4.0-w... → 人追成
+...（4 次变化）
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:15:29 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:15:29 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:29 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:29 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:30 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:30 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:30 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:30 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:31 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:31 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:31 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:31 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:31 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:32 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:32 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:32 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:32 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:32 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 145545 字节
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:33 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:33 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:33 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (145545 bytes)
+2026-06-05 09:15:33 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [人追成
+...]
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:33 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:33 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:33 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:34 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:34 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:34 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:34 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:35 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:35 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:35 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:35 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:35 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:36 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:36 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】检测到 1 个二维码
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】二维码内容: 人追成
+...
+2026-06-05 09:15:36 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [人追成
+...]，跳过
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:36 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:36 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:36 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:37 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:37 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:38 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:38 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:39 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:39 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:40 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:40 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:40 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:40 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，跳过
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】二维码内容: 文本
+网址
+文件
+图片
+音视频
+名片
+...
+2026-06-05 09:15:40 | INFO    | core.deduplicator | 【去重】二维码已超出30秒窗口 [文本
+网址
+文件
+图片
+音视频
+名片
+...]，允许重新触发
+2026-06-05 09:15:40 | INFO    | core.engine | 【变化检测】二维码内容变化: 人追成
+... → 文本
+网址
+文件
+图片
+音视频
+名片
+...（5 次变化）
+2026-06-05 09:15:40 | WARNING | core.engine | 【变化检测】1分钟内检测到 5 次二维码变化，达到阈值 5 次，自动暂停 2 分钟
+2026-06-05 09:15:40 | INFO    | core.engine | 【二维码监控】自动暂停中，剩余 120 秒后恢复
+2026-06-05 09:16:09 | INFO    | core.engine | 【二维码监控】自动暂停中，剩余 91 秒后恢复
+2026-06-05 09:16:39 | INFO    | core.engine | 【二维码监控】自动暂停中，剩余 61 秒后恢复
+2026-06-05 09:17:09 | INFO    | core.engine | 【二维码监控】自动暂停中，剩余 31 秒后恢复
+2026-06-05 09:17:39 | INFO    | core.engine | 【二维码监控】自动暂停中，剩余 1 秒后恢复
+2026-06-05 09:17:40 | INFO    | core.engine | 【二维码监控】自动暂停结束，引擎已恢复运行
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】二维码已超出30秒窗口 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，允许重新触发
+2026-06-05 09:17:41 | INFO    | core.engine | 【变化检测】二维码内容变化: 文本
+网址
+文件
+图片
+音视频
+名片
+... → 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+...（1 次变化）
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:17:41 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:41 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:41 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:41 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:42 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:42 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:43 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:43 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:44 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:44 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 1113325 字节
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:44 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:44 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:44 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:45 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:45 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:45 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:45 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:45 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:46 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:46 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:46 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (1113325 bytes)
+2026-06-05 09:17:46 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:46 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:46 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:46 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:47 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:47 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:47 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:47 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:47 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:47 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】检测到 4 个二维码
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:54 | INFO    | ui.tray_app | User triggered QR stop via tray menu
+2026-06-05 09:17:54 | INFO    | core.engine | 【二维码监控】正在停止引擎...
+2026-06-05 09:17:54 | INFO    | core.screenshot_trigger | 【截图触发器】已停止
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】检测到 4 个二维码
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:17:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】引擎已停止
+2026-06-05 09:17:55 | INFO    | core.engine | 【二维码监控】引擎已停止
+2026-06-05 09:18:29 | INFO    | ui.tray_app | User triggered quit via tray menu
+2026-06-05 09:18:29 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:18:29 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:18:29 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:18:29 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:18:29 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:18:29 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:18:29 | INFO    | __main__ | QR Monitor shutdown complete
+2026-06-05 09:24:38 | INFO    | __main__ | QR Monitor starting...
+2026-06-05 09:24:38 | INFO    | ui.tray_app | System tray icon started
+2026-06-05 09:24:44 | INFO    | ui.tray_app | User triggered QR start via tray menu
+2026-06-05 09:24:44 | INFO    | core.deduplicator | 【去重】去重记录已重置
+2026-06-05 09:24:44 | INFO    | core.engine | 【二维码监控】引擎已启动，开始实时监控屏幕内容
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】准备触发 PrtScn 全屏截图...
+2026-06-05 09:24:48 | INFO    | core.screenshot_trigger | 【截图触发器】已触发 PrtScn 全屏截图
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.screenshot_trigger | 【截图触发器】PrtScn 按键已发送，等待系统截图完成...
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】检测到 3 个二维码
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:48 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:48 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:49 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:49 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:50 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:50 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:50 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】PrtScn 截图已完成，耗时 3.1 秒
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:51 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:51 | INFO    | core.engine | 【二维码监控】从剪贴板读取截图成功: 677819 字节
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:52 | INFO    | send_clipboard_image | 【企业微信】文本发送成功: 开始签到，尽快打卡...
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:52 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:52 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:53 | INFO    | send_clipboard_image | 【企业微信】图片发送成功 (677819 bytes)
+2026-06-05 09:24:53 | INFO    | core.deduplicator | 【去重】二维码已标记为已发送 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】截图发送成功
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:53 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:53 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:54 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:54 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:55 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:55 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:56 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:56 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:56 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:56 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:56 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:57 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:57 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:57 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:57 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:57 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:58 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:58 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:24:59 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:24:59 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:00 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:00 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:01 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:01 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:02 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:02 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:02 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:02 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:02 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:03 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:03 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:04 | INFO    | ui.tray_app | User triggered QR stop via tray menu
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】正在停止引擎...
+2026-06-05 09:25:04 | INFO    | core.screenshot_trigger | 【截图触发器】已停止
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】检测到 2 个二维码
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】二维码内容: 4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRLiTlSbRnvDvsW50V+g7VH...
+2026-06-05 09:25:04 | INFO    | core.deduplicator | 【去重】30秒窗口内重复二维码 [4h0agT/4SVMeaIMT4wPkdhSGm/gfB4V7qxg0q2E+1rDVF7VZZqzj4nroKuRL...]，跳过
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】引擎已停止
+2026-06-05 09:25:04 | INFO    | core.engine | 【二维码监控】引擎已停止
+2026-06-05 09:25:11 | INFO    | ui.tray_app | User opened settings window
+2026-06-05 09:25:21 | INFO    | ui.settings_window | Configuration saved
+2026-06-05 09:25:21 | INFO    | core.engine | 【二维码监控】配置已重新加载
+2026-06-05 09:25:21 | INFO    | ui.tray_app | QR engine reloaded configuration
+2026-06-05 09:25:21 | INFO    | core.screenshot_engine | Screenshot engine configuration reloaded
+2026-06-05 09:25:21 | INFO    | ui.tray_app | Screenshot engine reloaded configuration
+2026-06-05 09:25:21 | INFO    | core.winprtscn_engine | 【PrtScn 引擎】配置已重新加载
+2026-06-05 09:25:21 | INFO    | ui.tray_app | PrtScn engine reloaded configuration
+2026-06-05 09:25:21 | INFO    | ui.settings_window | Engine reloaded configuration
+2026-06-05 09:44:04 | INFO    | ui.tray_app | User triggered quit via tray menu
+2026-06-05 09:44:04 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:44:04 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:44:04 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:44:04 | WARNING | core.engine | 【二维码监控】引擎未运行，无法停止
+2026-06-05 09:44:04 | WARNING | core.screenshot_engine | 截图监控引擎未运行，无法停止
+2026-06-05 09:44:04 | WARNING | core.winprtscn_engine | 【PrtScn 引擎】未运行，无法停止
+2026-06-05 09:44:04 | INFO    | __main__ | QR Monitor shutdown complete
